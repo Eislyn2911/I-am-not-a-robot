@@ -1,6 +1,6 @@
 # I-am-not-a-robot(Discord Bot)  
 
->**Note that the bot is not live, to test the bot please contact me and let me know your available time for testing**
+>**Note that the bot is not live, to test the bot please contact me and schedule a time for me to turn on the bot**
 
 >Invite Link: https://discord.com/api/oauth2/authorize?client_id=978649404816916521&permissions=8&scope=bot
 
