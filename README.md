@@ -2,7 +2,7 @@
 
 >**Note that the bot is not live, to test the bot please contact me and let me know your available time for testing**
 
--  https://discord.com/api/oauth2/authorize?client_id=978649404816916521&permissions=8&scope=bot
+>Invite Link: https://discord.com/api/oauth2/authorize?client_id=978649404816916521&permissions=8&scope=bot
 
 -  I’m not a robot is a multipurpose Discord Bot written fully in Java and with the use of several APIs.
 
