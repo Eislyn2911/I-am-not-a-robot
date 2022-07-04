@@ -4,7 +4,7 @@
 
 >Invite Link: https://discord.com/api/oauth2/authorize?client_id=978649404816916521&permissions=8&scope=bot
 
--  I’m not a robot is a multipurpose Discord Bot written fully in Java and with the use of several APIs.
+-  I’m not a robot is a multipurpose Discord Bot written fully in Java with the use of several APIs.
 
 -  The Objective of this Discord Bot is to bring the people around the world together.
 
